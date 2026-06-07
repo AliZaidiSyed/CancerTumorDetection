@@ -28,6 +28,10 @@ If you download it to test this code, you'll find three main folders:
 1. Download the `TumorDetectionGUI.m` file from this repository.
 2. Download the dataset folders from the Kaggle link provided above.
 3. Open MATLAB (or MATLAB Online) in the directory where you saved the code.
-4. Type this into your Command Window and press Enter:
-   ```matlab
-   TumorDetectionGUI
+
+
+## ScreenShot
+
+<img width="933" height="647" alt="WhatsApp Image 2026-06-06 at 22 21 54" src="https://github.com/user-attachments/assets/7f3502bf-8f8a-4102-a560-9de9349fcd11" />
+
+
